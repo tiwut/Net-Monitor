@@ -1,8 +1,11 @@
 <div align="center">
-
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities-0-brightgreen)
-
+  
+[![License](https://img.shields.io/github/license/tiwut/Net-Monitor?style=flat-square&color=blue)](https://github.com/tiwut/Net-Monitor/blob/main/LICENSE)
+[![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities-0-brightgreen?style=flat-square)](#)
+[![GitHub stars](https://img.shields.io/github/stars/tiwut/Net-Monitor?style=flat-square&color=gold)](https://github.com/tiwut/Net-Monitor/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/tiwut/Net-Monitor?style=flat-square&color=orange)](https://github.com/tiwut/Net-Monitor/network/members)
+[![GitHub last commit](https://img.shields.io/github/last-commit/tiwut/Net-Monitor?style=flat-square)](https://github.com/tiwut/Net-Monitor/commits/main)
+  
 </div>
 
 # ⚡ Uptime & Auto-Speedtest Monitor 
