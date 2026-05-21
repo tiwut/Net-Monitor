@@ -12,8 +12,7 @@
 
 A self-hosted, ultra-lightweight dashboard that tracks your internet connection stability. Written in C++ and containerized in an Alpine Linux Docker image for zero vulnerabilities and minimal overhead.
 
-<img width="1202" height="628" alt="image" src="https://github.com/user-attachments/assets/8cbdaddd-4183-42e7-862f-f6b6b1d0336e" />
-
+<img width="1202" height="628" alt="image" src="https://github.com/user-attachments/assets/7fc43791-fdd0-4a9a-bd50-6dcda53bcc85" />
 
 ## 🚀 Features
 - **Live Latency Ping:** Pings Cloudflare, Google, and GitHub every 5 seconds.
